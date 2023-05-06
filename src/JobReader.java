@@ -45,7 +45,8 @@ public class JobReader {
 				"by", "word", "but", "not", "what", "all", "were", "we", "when", "your", "can",
 				"said", "there", "use", "an", "each", "which", "she", "do", "how", "their", "if", "will",
 				"up", "other", "about", "out", "many", "then", "them", "these", "so", "some", "her", "would",
-				"make", "like", "him", "into", "time", "has", "look", "two", "more"));
+				"make", "like", "him", "into", "time", "has", "look", "two", "more", "description", "talented",
+				"responsibilities", "include", "attention", "detail", "grow", "learn"));
 		
 		
 		try {

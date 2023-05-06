@@ -1,0 +1,20 @@
+Description
+Market 8 is looking for a talented Junior Web Developer that approaches website development from a solutions's perspective: considering the end user experience as well as from the back-end usability and flexibility. Attention to detail, and eye for design, and creation of efficient code are very key to keep websites in great shape, and in harmony with the CMS systems we use (mostly HubSpot & Wordpress).
+
+Responsibilities will include working with creative and technical teams to bring to life innovative sites and web applications. Great communication, attention to detail, and desire to grow and learn new disciplines are key to the role.
+
+
+Personal Traits and Qualifications we are looking for:
+Experience: Minimum 1 year designing and developing websites.
+Preparation: Bachelor’s Degree in Computer Science, Multimedia, or equivalent.
+Know your stuff:
+The ability to hand code standards compliant semantic XHTML websites from PSD's
+Experience of HTML5, XML/XSL, CSS3, JavaScript
+Comfortable of using: Photoshop, Illustrator, or Fireworks
+Knowledge of WordPress CMS, HubSpot is a plus.
+Experience with Javascript frameworks such as JQuery.
+Experience with PHP & MySQL
+Understanding of Mobile First Responsive design concepts.
+Understanding of page speed optimization best practices
+Understanding of Websites Cross-browser compatibility
+Knowledge about on-page SEO
